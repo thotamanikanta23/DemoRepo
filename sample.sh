@@ -5,3 +5,4 @@ date
 cal
 git --version
 uname
+service jenkins status
