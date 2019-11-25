@@ -4,4 +4,4 @@ echo "Kindly Find Today Date and Calendar"
 date
 cal
 git --version
-uname
+uname -a
